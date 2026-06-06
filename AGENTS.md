@@ -22,11 +22,11 @@ Blender 5.x addons for importing models from Slightly Mad Studios' Chameleon eng
 - `.vhf` = XML with position/orientation matrices per part
 - `.bml` = car definition container (BLMY chunk format → ATTRIB/NUMB/STRS → references .meb files)
 - `.bmt` = texture definition (BLMY format)
-- Chameleon engine (Slightly Mad Studios) — also used by Project CARS. Not related to Criterion's NFS Hot Pursuit 2010 engine.
+- Chameleon engine (Slightly Mad Studios) — also used by Project CARS.
 
 ## RE references
 
-- Original 3DSMax script: `~/Documents/Design/SMS_Importer_3.1c.zip` (Chipicao/vagos21)
+- Original 3DSMax script by Chipicao/vagos21 — https://www.tapatalk.com/groups/kottons_chop_shop/ti-scp-ti-sms-model-importer-t3217.html
 - auvy Blender port: `https://github.com/auvy/nfs-shift-to-blender`
 - ForzaTech blender pattern: `~/Documents/Code/game-tools/ForzaTech-extraction-tools/scripts/carbin_importer.py`
 - QuickBMS: `/home/selene/Documents/Code/re/tools/forza-studio/quickbms.exe`, script at `aluigi.org/bms/nfsshift.bms`

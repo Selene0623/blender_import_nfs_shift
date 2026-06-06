@@ -20,10 +20,10 @@ Port of the [SMS Importer 3.1c 3DSMax script by Chipicao and vagos21](https://ww
 - `.meb` / `.imb` — binary mesh files (verts, UV channels, normals, vertex colors, bone weights)
 - `.vhf` — XML with per-part transformation matrices
 - `.bml` — car definition container (BLMY chunk format referencing .meb files)
-- Chameleon engine (Slightly Mad Studios): also used by Project CARS. Not related to Criterion's NFS Hot Pursuit 2010 / Most Wanted 2012 engine.
+- Chameleon engine (Slightly Mad Studios): also used by Project CARS.
 
 ## RE references
 
-- Original 3DSMax script: `SMS_Importer_3.1c.zip` by Chipicao/vagos21
+- Original 3DSMax script by Chipicao/vagos21 — https://www.tapatalk.com/groups/kottons_chop_shop/ti-scp-ti-sms-model-importer-t3217.html
 - QuickBMS: `aluigi.org/bms/nfsshift.bms`
-- ZModeler filter: `zmodeler-2.2.6/Filters/nfsshift.zmf`
+
