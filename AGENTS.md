@@ -22,7 +22,7 @@ Blender 5.x addons for importing models from Slightly Mad Studios' Chameleon eng
 - `.vhf` = XML with position/orientation matrices per part
 - `.bml` = car definition container (BLMY chunk format → ATTRIB/NUMB/STRS → references .meb files)
 - `.bmt` = texture definition (BLMY format)
-- Chameleon engine — also used by NFS Hot Pursuit 2010, Project CARS
+- Chameleon engine (Slightly Mad Studios) — also used by Project CARS. Not related to Criterion's NFS Hot Pursuit 2010 engine.
 
 ## RE references
 
